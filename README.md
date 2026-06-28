@@ -45,6 +45,12 @@ Each folder contains:
 * `.wav` heart sound recordings
 * `REFERENCE.csv` labels file
 
+
+## Features
+
+- Real-time disease detection
+- Explainable AI reports
+- Multi-class classification
 ---
 
 ## ⚙️ Technologies Used
