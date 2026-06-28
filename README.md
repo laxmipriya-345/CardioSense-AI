@@ -1,4 +1,4 @@
-# Heart Sound Classification using Machine Learning, Deep Learning, and Explainable AI (XAI)
+<img width="1545" height="605" alt="image" src="https://github.com/user-attachments/assets/daceb0a4-eebf-443c-9a9c-19f70dd83a42" /># Heart Sound Classification using Machine Learning, Deep Learning, and Explainable AI (XAI)
 
 ## 📌 Project Overview
 
@@ -44,6 +44,7 @@ Each folder contains:
 
 * `.wav` heart sound recordings
 * `REFERENCE.csv` labels file
+
 
 ---
 
@@ -217,6 +218,9 @@ python main.py
 * Transformer-based models
 * Grad-CAM for deep learning explainability
 
+- Deploy using Streamlit
+- Add Explainable AI visualization
+- Improve model accuracy
 ---
 
 ## 👩‍💻 Author
