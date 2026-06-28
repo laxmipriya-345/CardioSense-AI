@@ -1,4 +1,4 @@
-<img width="1545" height="605" alt="image" src="https://github.com/user-attachments/assets/daceb0a4-eebf-443c-9a9c-19f70dd83a42" /># Heart Sound Classification using Machine Learning, Deep Learning, and Explainable AI (XAI)
+# Heart Sound Classification using Machine Learning, Deep Learning, and Explainable AI (XAI)
 
 ## 📌 Project Overview
 
